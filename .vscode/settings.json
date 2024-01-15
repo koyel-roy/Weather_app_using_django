@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./weatherproj/weatherapp/templates",
+        "./weatherproj/weatherapp_e/templates"
+    ]
+}
